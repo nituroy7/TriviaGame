@@ -1,0 +1,41 @@
+
+body{
+background : url(../images/planet.gif);
+}
+.container{
+    background : url(../images/image4.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:80%;
+    text-align: center;
+
+}
+.jumbotron h1{
+    color: red;
+    text-align: center;
+
+}
+
+
+.jumbotron{
+    background: url(../images/giphy3.gif);
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    color: white;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+
+
+h2{
+text-align: center;
+margin-bottom: 5%;
+}
+
